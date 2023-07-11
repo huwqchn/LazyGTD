@@ -1,5 +1,5 @@
 [package]
-name = "lazy-gtd"
+name = "lazygtd"
 version = "0.0.0"
 authors = ["Johnson Hu <huwqchn@gmail.com>"]
 description = "Terminal Todo manager"
