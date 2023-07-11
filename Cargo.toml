@@ -1,0 +1,14 @@
+[package]
+name = "LazyGTD"
+version = "0.0.0"
+authors = ["Johnson Hu <huwqchn@gmail.com>"]
+description = "Terminal Todo manager"
+homepage = "https://github.com/huwqchn/LazyGTD"
+repository = "https://github.com/huwqchn/LazyGTD"
+license = "LGPL-3.0"
+edition = "2021"
+keywords = ["tui-rs", "terminal", "todo", "GTD"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
